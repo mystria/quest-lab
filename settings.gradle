@@ -1,0 +1,5 @@
+rootProject.name = 'quest-lab'
+include('common', 'lab')
+include 'sammo'
+include 'labs'
+

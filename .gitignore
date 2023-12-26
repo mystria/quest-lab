@@ -1,3 +1,21 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/src/main/**/build/
+!**/src/test/**/build/
+build/
+h2db/
+qodana/
+
+### Gradle ###
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
 # Compiled class file
 *.class
 
