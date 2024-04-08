@@ -1,1 +1,6 @@
 GitHub 의 PR merge 정책을 확인해보기 위함입니다.
+
+GitHub 에서는 PR 을 merge 할 때, 다음과 같은 옵션을 제공합니다.
+1. Merge pull request
+2. Squash and merge
+3. Rebase and merge
